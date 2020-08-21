@@ -1,0 +1,23 @@
+{
+	"name": "todolist-api",
+	"version": "1.0.0",
+	"description": "Personal small project a simple to do listt",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index",
+		"dev": "nodemon index"
+	},
+	"author": "Ravi Deevan",
+	"license": "MIT",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"helmet": "^4.1.0",
+		"mongoose": "^5.10.0",
+		"morgan": "^1.10.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	}
+}

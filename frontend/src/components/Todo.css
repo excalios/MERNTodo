@@ -1,0 +1,12 @@
+.todo {
+    display: flex;
+    flex-direction: row;
+    background-color: #7f7f7f;
+    padding: 0px 8px;
+    margin: 8px;
+    border-radius: 12px;
+}
+
+p {
+    margin-right: 6px;
+}
